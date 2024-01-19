@@ -1,0 +1,4 @@
+[MQTT]
+ip=168.14.53.149
+port=1883
+topic=SMGTopic

@@ -1,0 +1,39 @@
+2023-12-07 14:46:13,586 - Physical display detected.
+2023-12-07 14:48:39,978 - No physical display detected.
+2023-12-07 14:48:42,228 - Stop lightdm.
+2023-12-07 14:48:45,266 - Set Xrog to Dummy Display.
+2023-12-07 14:48:47,505 - Start lightdm.
+2023-12-07 14:48:48,582 - Recover back physical configuration, Wait next reboot
+2023-12-08 13:30:16,290 - Physical display detected.
+2023-12-11 10:10:44,227 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-12-11 10:10:44,232 - No physical display detected.
+2023-12-11 10:10:47,237 - Stop lightdm.
+2023-12-11 10:10:50,290 - Set Xrog to Dummy Display.
+2023-12-11 10:10:52,600 - Start lightdm.
+2023-12-11 10:10:53,641 - Recover back physical configuration, Wait next reboot
+2023-12-12 08:49:40,655 - Physical display detected.
+2023-12-12 08:55:34,965 - Physical display detected.
+2023-12-12 08:58:09,428 - Physical display detected.
+2023-12-12 09:00:35,517 - Physical display detected.
+2023-12-12 09:04:43,614 - Physical display detected.
+2023-12-12 09:35:33,545 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-12-12 09:35:33,545 - No physical display detected.
+2023-12-12 09:35:35,849 - Stop lightdm.
+2023-12-12 09:35:38,887 - Set Xrog to Dummy Display.
+2023-12-12 09:35:57,284 - Start lightdm.
+2023-12-12 09:35:58,323 - Recover back physical configuration, Wait next reboot
+2023-12-12 10:13:48,451 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-12-12 10:13:48,452 - No physical display detected.
+2023-12-12 10:13:50,759 - Stop lightdm.
+2023-12-12 10:13:53,799 - Set Xrog to Dummy Display.
+2023-12-12 10:14:12,136 - Start lightdm.
+2023-12-12 10:14:13,172 - Recover back physical configuration, Wait next reboot
+2023-12-12 14:32:39,139 - Physical display detected.
+2023-12-13 16:22:22,129 - Physical display detected.
+2024-01-16 19:09:59,267 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2024-01-16 19:09:59,271 - No physical display detected.
+2024-01-16 19:10:02,327 - Stop lightdm.
+2024-01-16 19:10:05,393 - Set Xrog to Dummy Display.
+2024-01-16 19:10:07,761 - Start lightdm.
+2024-01-16 19:10:08,801 - Recover back physical configuration, Wait next reboot
+2024-01-19 01:06:05,617 - Physical display detected.

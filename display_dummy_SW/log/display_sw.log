@@ -1,0 +1,78 @@
+2023-11-23 13:13:12,015 - Physical display detected.
+2023-11-23 15:33:40,815 - Physical display detected.
+2023-11-23 15:33:40,816 - DISPLAY: localhost:10.0
+2023-11-23 15:33:40,816 - XAUTHORITY: None
+2023-11-23 15:35:34,246 - Physical display detected.
+2023-11-23 15:35:34,247 - DISPLAY: :0
+2023-11-23 15:35:34,247 - XAUTHORITY: /home/myuser/.Xauthority
+2023-11-23 15:40:49,106 - Physical display detected.
+2023-11-23 15:40:49,107 - DISPLAY: :0.0
+2023-11-23 15:40:49,107 - XAUTHORITY: /home/myuser/.Xauthority
+2023-11-23 15:42:49,869 - Physical display detected.
+2023-11-23 15:58:58,158 - Physical display detected.
+2023-11-23 16:10:02,793 - Physical display detected.
+2023-11-23 16:14:02,162 - Physical display detected.
+2023-11-23 16:15:15,214 - Physical display detected.
+2023-11-23 16:34:03,461 - Physical display detected.
+2023-11-23 16:36:39,772 - Physical display detected.
+2023-11-23 16:39:10,581 - Physical display detected.
+2023-11-23 16:47:51,772 - Physical display detected.
+2023-11-23 16:48:28,159 - Physical display detected.
+2023-11-23 16:50:10,854 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 16:50:10,854 - No physical display detected.
+2023-11-23 16:51:25,490 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 16:51:25,491 - No physical display detected.
+2023-11-23 16:54:34,733 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 16:54:34,734 - No physical display detected.
+2023-11-23 16:54:52,546 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 16:54:52,547 - No physical display detected.
+2023-11-23 16:57:50,905 - Physical display detected.
+2023-11-23 16:59:29,966 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 16:59:29,967 - No physical display detected.
+2023-11-23 17:02:50,833 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 17:02:50,833 - No physical display detected.
+2023-11-23 17:04:13,821 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 17:04:13,822 - No physical display detected.
+2023-11-23 17:07:58,575 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 17:07:58,575 - No physical display detected.
+2023-11-23 17:11:01,481 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 17:11:01,482 - No physical display detected.
+2023-11-23 17:12:28,607 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 17:12:28,607 - No physical display detected.
+2023-11-23 17:12:28,612 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 17:17:46,731 - Error running xrandr: Command '['/usr/bin/xrandr']' returned non-zero exit status 1.
+2023-11-23 17:17:46,732 - No physical display detected.
+2023-11-23 17:26:26,092 - Error running xrandr: Command '['/usr/bin/xrandr']' returned non-zero exit status 1.
+2023-11-23 17:26:26,093 - No physical display detected.
+2023-11-23 17:27:00,890 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 17:27:00,890 - No physical display detected.
+2023-11-23 17:30:16,569 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-23 17:30:16,569 - No physical display detected.
+2023-11-24 09:12:54,909 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:12:54,910 - No physical display detected.
+2023-11-24 09:13:01,257 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:13:01,258 - No physical display detected.
+2023-11-24 09:13:38,006 - Physical display detected.
+2023-11-24 09:14:25,312 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:14:25,312 - No physical display detected.
+2023-11-24 09:15:14,138 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:15:14,138 - No physical display detected.
+2023-11-24 09:16:04,709 - Physical display detected.
+2023-11-24 09:16:50,822 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:16:50,823 - No physical display detected.
+2023-11-24 09:17:32,331 - Physical display detected.
+2023-11-24 09:18:15,002 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:18:15,003 - No physical display detected.
+2023-11-24 09:21:34,239 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:21:34,240 - No physical display detected.
+2023-11-24 09:22:18,875 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:22:18,876 - No physical display detected.
+2023-11-24 09:23:20,331 - Error running xrandr: Command '['xrandr']' returned non-zero exit status 1.
+2023-11-24 09:23:20,331 - No physical display detected.
+2023-11-24 09:23:49,434 - Physical display detected.
+2023-11-24 09:24:08,315 - Physical display detected.
+2023-11-24 09:26:40,157 - Physical display detected.
+2023-11-24 10:18:31,174 - Physical display detected.
+2023-11-24 10:30:21,919 - No physical display detected.
+2023-11-24 10:36:24,744 - Physical display detected.
+2023-11-24 10:39:13,501 - Physical display detected.

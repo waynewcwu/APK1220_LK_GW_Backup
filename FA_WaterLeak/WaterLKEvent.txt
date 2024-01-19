@@ -1,0 +1,1 @@
+ENSEVENT~F12A_SMS~FAB_12A~F12ASMS~SMG_AP~FA_WaterLeak~~1~token~~~~7~[Alarm] FA, Water Leak, location:8AB_FA.~~~~~~~1|ENS_DV_SMS|ENSSYS#0963565601

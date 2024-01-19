@@ -1,0 +1,34 @@
+import logging
+from Xlib import display
+import subprocess
+
+# Configure logging, including filename and format
+logging.basicConfig(filename='/home/myuser/00048963/display_dummy_SW/log/display_sw.log', level=logging.INFO, format='%(asctime)s - %(message)s')
+
+
+
+def is_x_server_running():
+    # Check if the X server is running
+    try:
+        subprocess.check_output(["pgrep", "X"])
+        return True
+    except subprocess.CalledProcessError:
+        return False
+
+def is_display_connected():
+    if is_x_server_running():
+
+# Check for physical display connection
+        d = display.Display()
+        root = d.screen().root
+        resources = root.xrandr_get_screen_resources()
+        return len(resources.outputs) > 0
+    else:
+        return False
+
+if __name__ == "__main__":
+    # Write output to the log
+    if is_display_connected():
+        logging.info("Physical display detected.")
+    else:
+        logging.info("No physical display detected.")

@@ -1,0 +1,5 @@
+[MQTT]
+//ip=10.210.129.111
+ip=0.0.0.0
+port=1883
+topic=12A/SMG/P5LAB

@@ -1,0 +1,17 @@
+[Unit]
+Description=Dubscribe MQTT & ENS Alarm for Water Leak
+#After=network-online.target
+After=vernemq.service
+Wants=vernemq.service
+
+
+[Service]
+User=myuser
+ExecStart=/usr/bin/python3 -u main.py
+WorkingDirectory=/home/myuser/00048963/ServiceCode/FA_WaterLeak
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+[Install]
+WantedBy=multi-user.target
+
